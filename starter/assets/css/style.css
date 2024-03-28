@@ -2,6 +2,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   line-height: 1;
+  background-color: #494444;
 }
 
 textarea {
@@ -16,7 +17,7 @@ textarea {
 header {
   text-align: center;
   background-color: transparent;
-  color: black;
+  color: rgb(255, 255, 255);
   border-radius: 0;
   border-bottom: 10px solid black;
   padding: 60px;
